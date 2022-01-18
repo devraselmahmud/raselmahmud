@@ -10,7 +10,7 @@ Core Competencies:
 ✔ Collaboration & Negotiation
 ✔ Strategic Development & Execution
 
-🎁 Skills:  HTML / CSS / JAVA
+🎁 Skills:  HTML / CSS / C / JAVA
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning Java 
