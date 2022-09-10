@@ -10,10 +10,10 @@ Core Competencies:
 ✔ Collaboration & Negotiation
 ✔ Strategic Development & Execution
 
-🎁 Skills:  HTML / CSS / C / Java / Spring / JavaScript / Node.js / Dart / Flutter / MySQL
+🎁 Skills:  HTML / CSS / Bootstrap / Angular / ASP.NET Core MVC / C# / JavaScript / Java / C / MySQL / Docker
 
 - 🔭 I’m currently working at SDSInc. 
-- 🌱 I’m currently learning Blockchain 
+- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me: https://www.linkedin.com/in/mahmudrasel/ 
 
 
