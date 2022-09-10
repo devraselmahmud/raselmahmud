@@ -14,7 +14,8 @@ Core Competencies:
 
 - 🔭 I’m currently working at SDSInc. 
 - 🌱 I’m currently learning Full Stack Development
-- 📫 How to reach me: https://www.linkedin.com/in/mahmudrasel/ 
+- 📫 How to reach me: https://www.linkedin.com/in/mahmudrasel
+- 📫 How to reach me: https://twitter.com/0xrasel
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0xrasel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmudrasel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCqZSjInGzjD9Tmp1TADGR9Q)  
