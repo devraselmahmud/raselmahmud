@@ -10,10 +10,10 @@ Core Competencies:
 ✔ Collaboration & Negotiation
 ✔ Strategic Development & Execution
 
-🎁 Skills:  HTML / CSS / Bootstrap / Angular / ASP.NET Core MVC / C# / JavaScript / Java / C / MySQL / Docker
+🎁 Skills:  HTML / CSS / Bootstrap / React / NodeJS / AdonisJS MVC / JavaScript / Java / C / MySQL / Docker
 
 - 🔭 I’m currently working at SDSInc. 
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Development, and working as a Software Engineering Trainee
 - 📫 How to reach me: https://www.linkedin.com/in/mahmudrasel
 - 📫 How to reach me: https://twitter.com/0xrasel
 
