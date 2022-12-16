@@ -1,5 +1,3 @@
-![Software Developer](https://media-exp1.licdn.com/dms/image/C5616AQGf5FDk67MW9A/profile-displaybackgroundimage-shrink_200_800/0/1642431540898?e=1648080000&v=beta&t=xChOahskBf8t7bnUy5NSnEBy2AtB_NygICPuWk3Qa3o)
-
 ### Hi there 👋, I'm Rasel
 #### Software Developer
 
