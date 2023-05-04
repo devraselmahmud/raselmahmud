@@ -8,12 +8,11 @@ Core Competencies:
 ✔ Collaboration & Negotiation
 ✔ Strategic Development & Execution
 
-🎁 Skills:  HTML / CSS / Bootstrap / React / NodeJS / AdonisJS MVC / JavaScript / Java / C / MySQL / Docker
+🎁 Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Next / NodeJS / AdonisJS MVC / Basic Java / C / MySQL
 
-- 🔭 I’m currently working at SDSInc. 
+- 🔭 I’m currently working at HostingLagbe. 
 - 🌱 I’m currently learning Full Stack Development, and working as a Software Engineering Trainee
 - 📫 How to reach me: https://www.linkedin.com/in/mahmudrasel
-- 📫 How to reach me: https://twitter.com/0xrasel
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devraselmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmudrasel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCqZSjInGzjD9Tmp1TADGR9Q)  
