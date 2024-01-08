@@ -8,10 +8,9 @@ Core Competencies:
 ✔ Collaboration & Negotiation
 ✔ Strategic Development & Execution
 
-🎁 Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Next / NodeJS / AdonisJS MVC / Basic Java / C / MySQL
+🎁 Skills:  HTML / CSS / Bootstrap / JavaScript / Java / Spring Boot / Basic Docker / MySQL / System Design
 
-- 🔭 I’m currently working at HostingLagbe. 
-- 🌱 I’m currently learning Full Stack Development, and working as a Software Engineering Trainee
+- 🌱 I’m currently learning Full Stack Development.
 - 📫 How to reach me: https://www.linkedin.com/in/mahmudrasel
 
 
