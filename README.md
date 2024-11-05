@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rasel
-#### Software Developer Intern at BRAC IT
+#### Software Engineer at BRAC IT
 
 Highly motivated to work in Software Development. Also interest in secure coding and cybersecurity. Demonstrated ability to understand the organizational vision and strategic business objects to ensure security controls are designed to enable and protect the Confidentiality, Integrity, and Availability of an organization’s assets. Enthusiastic in exploring and learning things of interest.
 
